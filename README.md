@@ -41,9 +41,9 @@ Code accompanying the paper "Dual-loss nonlinear independent component estimatio
 ## Results on T-NICE, F-NICE and DL-NICE
 
 
-| t-SNE                               | T-NICE | F-NICE  | DL-NICE  |
+|                               | T-NICE | F-NICE  | DL-NICE  |
 | -----------            | ----------- |----------- | ----------- |
-|      |  ![13 ](https://github.com/123MHao/DL-NICE/assets/102200358/fa6773f8-8a3e-459b-8aee-2e2e8b3af7ed) |![14 ](https://github.com/123MHao/DL-NICE/assets/102200358/fc0dffd3-4e1b-47f8-9aa8-1d26ace3f92b) |![15 ](https://github.com/123MHao/DL-NICE/assets/102200358/4cd3b98b-c224-490e-ba77-0c7e9e369a38) |    
+|  t-SNE     |  ![13 ](https://github.com/123MHao/DL-NICE/assets/102200358/fa6773f8-8a3e-459b-8aee-2e2e8b3af7ed) |![14 ](https://github.com/123MHao/DL-NICE/assets/102200358/fc0dffd3-4e1b-47f8-9aa8-1d26ace3f92b) |![15 ](https://github.com/123MHao/DL-NICE/assets/102200358/4cd3b98b-c224-490e-ba77-0c7e9e369a38) |    
 
 
 
