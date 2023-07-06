@@ -28,7 +28,7 @@ Code accompanying the paper "Dual-loss nonlinear independent component estimatio
 
 * The proposed method was implemented in the TensorFlow framework. The DLNICE model was trained using the provided training set. 
 * During training, a batch size of 32 and a total of 30 iterations were employed. The optimizer used was Adam, with a learning rate of 0.002. 
-* The activation function utilized in the model was the Leaky Rectified Lin-ear Unit (Leaky ReLU).
+* The activation function utilized in the model was the Leaky Rectified Linear Unit (Leaky ReLU).
 
 # Usage
 
