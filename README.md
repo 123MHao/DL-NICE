@@ -1,6 +1,6 @@
 # DL-NICE
 
-## Dual-loss nonlinear independent component estimation
+## Dual Loss-Nonlinear Independent Component Estimation
 Code accompanying the paper "Dual-loss nonlinear independent component estimation for augmenting explainable vibration samples of rotating machinery faults" by Xiaoyun Gong, Mengxuan Hao, Chuan Li1, Wenliao Du, Wenbin He and Ziqiang Pu (Ready to be submitted for publication).
 
 * Tensorflow 2.0 implementation
